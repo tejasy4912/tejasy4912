@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Data Science Projects.
-- 🌱 I’m currently learning Business Intelligence tools which are Power BI nad Tableau.
+- 🌱 I’m currently learning Business Intelligence tools which are Power BI and Tableau.
 - 👯 I’m looking to collaborate on Opensource Data Science Projects.
 - 🤔 I’m looking for Intership Opportunity in domain of Data Science.
 - 💬 Ask me about Knowledge Data Discovery & Mining, Big Data Analysis and ML Algorithms. 
