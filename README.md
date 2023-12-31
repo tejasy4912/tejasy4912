@@ -8,7 +8,7 @@
 - 🤔 I’m looking for Intership Opportunity in domain of Data Science.
 - 💬 Ask me about Knowledge Data Discovery & Mining, Big Data Analysis and ML Algorithms. 
 - 📫 How to reach me: 
-      Mail : beingtejas4912@gmail.com
+      Mail : tejas21.work@gmail.com
       Contact No : +1 (857) 961-6260
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I choose Data Science by mistake when we have to choose a track in our college for specilization and now I'm loving it.
