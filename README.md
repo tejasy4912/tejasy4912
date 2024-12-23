@@ -13,7 +13,7 @@ If you are seeking a data scientist who can leverage their extensive experience,
 - 💬 Ask me about Knowledge Data Discovery & Mining, Big Data Analysis and ML Algorithms. 
 - 📫 How to reach me: 
       Mail : tejas21.work@gmail.com
-      Contact No : +1 (857) 961-6260
+      Contact No : +1 (617) 659-4081
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I choose Data Science by mistake when we have to choose a track in our college for specilization and now I'm loving it.
 
